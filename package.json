@@ -1,0 +1,14 @@
+{
+  "name": "jwt-auth-simple",
+  "version": "1.0.0",
+  "description": "Simple JWT authentication using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
